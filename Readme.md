@@ -6,7 +6,7 @@ The Z Store wants to create an annual sales report for 2023. So that, the owner 
 
 **Dataset used**
 
-- Z [Store](https://github.com/rajeshkumar-333/Z-Store-Project/blob/main/Z%20store.xlsx) Data
+-  [Z Store Data](https://github.com/rajeshkumar-333/Z-Store-Project/blob/main/Z%20store.xlsx) 
 
 **Questions (KPIs)**
 
@@ -28,7 +28,7 @@ The Z Store wants to create an annual sales report for 2023. So that, the owner 
 
 **Dashboard** 
 
-![Alt text of the image](Aspose.Words.58b9fc51-6878-48f6-a910-8e1c4e2b9224.001.png)
+![Z-Store Dashboard](https://github.com/rajeshkumar-333/Z-Store-Project/assets/167745088/f85c3c7e-8414-4dcc-96a4-5e173589f294)
 
 **Project Insight**
 
